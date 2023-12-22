@@ -18,7 +18,7 @@ export default function Home() {
               <div className="flex flex-col justify-center items-center p-4">
               <p className='text-primary text-xl text-pretty align-middle pl-2'>Crafting the Future: Your Premier Fabrication Destination, Coming Soon! </p>
               <p className='text-secondary text-md pt-4 pl-2'>
-                Have questions or need a custom quote? Connect with us at <a href="mailto:FABTHIS210@gmail.com" className='hover:text-primary'>FABTHIS210@gmail.com</a>, and we&apos;ll gladly assist you.
+                Have questions or need a custom quote? Connect with us at <a href="mailto:FABTHIS210@gmail.com" className='text-neutral hover:text-primary'>FABTHIS210@gmail.com</a>, and we&apos;ll gladly assist you.
               </p>
               </div>
             </div>
